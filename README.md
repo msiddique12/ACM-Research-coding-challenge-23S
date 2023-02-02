@@ -19,7 +19,8 @@
 ## 5. Accuracy and Heatmap of the model
 The model ended up having 99% accuracy. This is probably due to each star type being unique and so the model was able to perform well. I also created a confusion matrix heatmap to display the results of the model. The heatmap shows that the logistic regression model performed perfectly on all the star type except the 4th star type(Supergiant) where it had a 89% accuracy, hence, the overall 99% accuracy.
 
-<img width="412" alt="heatmap1" src="https://user-images.githubusercontent.com/67293796/216230632-b9abf8b3-8803-4679-b512-22fa8ffc3a6a.png">
+<img width="412" alt="Screenshot 2023-02-01 at 10 28 18 PM" src="https://user-images.githubusercontent.com/67293796/216231790-c9145a36-16dd-485c-816e-5d92daae94e2.png">
+
 
 ## 6. Sources used
 #### https://www.freecodecamp.org/news/how-to-build-and-train-linear-and-logistic-regression-ml-models-in-python/
